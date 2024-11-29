@@ -1,1 +1,3 @@
-console.log("Hello World");
+function sayHello(str) {
+  console.log(str);
+}
